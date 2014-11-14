@@ -1,0 +1,6 @@
+H:\Semester 1\Web design\Project\Website1\Website1\bin\Website1.dll.config
+H:\Semester 1\Web design\Project\Website1\Website1\bin\Website1.dll
+H:\Semester 1\Web design\Project\Website1\Website1\bin\Website1.pdb
+H:\Semester 1\Web design\Project\Website1\Website1\obj\Debug\Website1.csprojResolveAssemblyReference.cache
+H:\Semester 1\Web design\Project\Website1\Website1\obj\Debug\Website1.dll
+H:\Semester 1\Web design\Project\Website1\Website1\obj\Debug\Website1.pdb
